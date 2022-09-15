@@ -1,0 +1,7 @@
+{
+    "trailingComma": "es5",
+    "semi":false,
+    "doubleQuotes": true,
+    "singleQuote": true,
+    "printWidth": 10000
+}
